@@ -1,0 +1,9 @@
+{
+	"name": "ADFCorsoLusiana",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d20a7198-2714-44d1-a7a7-bca5a16f12ce",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
