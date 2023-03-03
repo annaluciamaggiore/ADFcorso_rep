@@ -33,6 +33,7 @@
 						"preCopyScript": "TRUNCATE TABLE dbo.Sales_LOAD",
 						"writeBehavior": "insert",
 						"sqlWriterUseTableLock": false,
+						"tableOption": "autoCreate",
 						"disableMetricsCollection": false
 					},
 					"enableStaging": false,
